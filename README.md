@@ -1,1 +1,1 @@
-# netflix-clone-with-scroll
+# my-netflix-clone
